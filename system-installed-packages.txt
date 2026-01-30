@@ -187,6 +187,7 @@ passwd
 pciutils
 perl
 perl-base
+polkitd
 procps
 qbittorrent-nox
 readline-common
