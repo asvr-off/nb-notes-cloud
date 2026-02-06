@@ -189,10 +189,14 @@ perl
 perl-base
 polkitd
 procps
+python3
+python3-pip
 qbittorrent-nox
 readline-common
 reportbug
 s-tui
+samba
+samba-common-bin
 sed
 sensible-utils
 sqv
