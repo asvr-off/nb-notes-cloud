@@ -179,6 +179,7 @@ netbase
 netcat-traditional
 network-manager
 nftables
+nginx
 openssh-client
 openssh-server
 openssl-provider-legacy
@@ -191,6 +192,7 @@ polkitd
 procps
 python3
 python3-pip
+python3-venv
 qbittorrent-nox
 readline-common
 reportbug
@@ -199,6 +201,7 @@ samba
 samba-common-bin
 sed
 sensible-utils
+sqlite3
 sqv
 stress-ng
 sudo
