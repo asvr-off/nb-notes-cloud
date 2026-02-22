@@ -15,6 +15,8 @@ bsdutils
 busybox
 bzip2
 ca-certificates
+cmatrix
+cockpit
 console-setup
 coreutils
 cowsay
@@ -36,6 +38,7 @@ doc-debian
 dpkg
 e2fsprogs
 eject
+ethtool
 fastfetch
 fdisk
 file
@@ -201,6 +204,7 @@ samba
 samba-common-bin
 sed
 sensible-utils
+speedtest-cli
 sqlite3
 sqv
 stress-ng
