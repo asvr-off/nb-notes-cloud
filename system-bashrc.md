@@ -135,3 +135,6 @@ eval "$(starship init bash)"
 alias cat="batcat"
 alias view="glow"
 
+export PATH=$PATH:$HOME/bin
+alias fanctl='tmux attach -t fanctl'
+alias fan='python3 ~/fanctl/fanctl.py'
